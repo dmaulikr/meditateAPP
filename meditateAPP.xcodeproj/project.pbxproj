@@ -15,6 +15,7 @@
 		5715A6211A17B8CF00B86EA4 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5715A61F1A17B8CF00B86EA4 /* LaunchScreen.xib */; };
 		5715A62D1A17B8CF00B86EA4 /* meditateAPPTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5715A62C1A17B8CF00B86EA4 /* meditateAPPTests.swift */; };
 		572FB11F1A17BE5A00B19A87 /* button.png in Resources */ = {isa = PBXBuildFile; fileRef = 572FB11E1A17BE5A00B19A87 /* button.png */; };
+		572FB1221A17BF9E00B19A87 /* mudha2.png in Resources */ = {isa = PBXBuildFile; fileRef = 572FB1211A17BF9E00B19A87 /* mudha2.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		5715A62B1A17B8CF00B86EA4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5715A62C1A17B8CF00B86EA4 /* meditateAPPTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = meditateAPPTests.swift; sourceTree = "<group>"; };
 		572FB11E1A17BE5A00B19A87 /* button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = button.png; sourceTree = "<group>"; };
+		572FB1211A17BF9E00B19A87 /* mudha2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mudha2.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -121,6 +123,7 @@
 		572FB1201A17BE6600B19A87 /* images */ = {
 			isa = PBXGroup;
 			children = (
+				572FB1211A17BF9E00B19A87 /* mudha2.png */,
 				572FB11E1A17BE5A00B19A87 /* button.png */,
 			);
 			name = images;
@@ -210,6 +213,7 @@
 				572FB11F1A17BE5A00B19A87 /* button.png in Resources */,
 				5715A6211A17B8CF00B86EA4 /* LaunchScreen.xib in Resources */,
 				5715A61E1A17B8CF00B86EA4 /* Images.xcassets in Resources */,
+				572FB1221A17BF9E00B19A87 /* mudha2.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

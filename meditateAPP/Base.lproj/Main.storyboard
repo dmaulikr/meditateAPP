@@ -4,7 +4,7 @@
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6244"/>
     </dependencies>
     <scenes>
-        <!--First-->
+        <!--Meditate-->
         <scene sceneID="hNz-n2-bh7">
             <objects>
                 <viewController id="9pv-A4-QxB" customClass="FirstViewController" customModule="meditateAPP" customModuleProvider="target" sceneMemberID="viewController">
@@ -34,7 +34,7 @@
                         </subviews>
                         <color key="backgroundColor" red="0.16862745100000001" green="0.51764705879999995" blue="0.82352941180000006" alpha="1" colorSpace="calibratedRGB"/>
                     </view>
-                    <tabBarItem key="tabBarItem" title="First" image="first" id="acW-dT-cKf"/>
+                    <tabBarItem key="tabBarItem" title="Meditate" image="mudha2.png" id="acW-dT-cKf"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="W5J-7L-Pyd" sceneMemberID="firstResponder"/>
             </objects>
@@ -102,7 +102,7 @@
     </scenes>
     <resources>
         <image name="button.png" width="427" height="436"/>
-        <image name="first" width="30" height="30"/>
+        <image name="mudha2.png" width="30" height="30"/>
         <image name="second" width="30" height="30"/>
     </resources>
 </document>
