@@ -14,6 +14,9 @@
 		5715A61E1A17B8CF00B86EA4 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5715A61D1A17B8CF00B86EA4 /* Images.xcassets */; };
 		5715A6211A17B8CF00B86EA4 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5715A61F1A17B8CF00B86EA4 /* LaunchScreen.xib */; };
 		5715A62D1A17B8CF00B86EA4 /* meditateAPPTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5715A62C1A17B8CF00B86EA4 /* meditateAPPTests.swift */; };
+		572FB11F1A17BE5A00B19A87 /* meditatebutton.png in Resources */ = {isa = PBXBuildFile; fileRef = 572FB11E1A17BE5A00B19A87 /* meditatebutton.png */; };
+		572FB1221A17BF9E00B19A87 /* tabicon_budha.png in Resources */ = {isa = PBXBuildFile; fileRef = 572FB1211A17BF9E00B19A87 /* tabicon_budha.png */; };
+		572FB1241A17C11900B19A87 /* tabicon_info.png in Resources */ = {isa = PBXBuildFile; fileRef = 572FB1231A17C11900B19A87 /* tabicon_info.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +41,9 @@
 		5715A6261A17B8CF00B86EA4 /* meditateAPPTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = meditateAPPTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5715A62B1A17B8CF00B86EA4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5715A62C1A17B8CF00B86EA4 /* meditateAPPTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = meditateAPPTests.swift; sourceTree = "<group>"; };
+		572FB11E1A17BE5A00B19A87 /* meditatebutton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = meditatebutton.png; sourceTree = "<group>"; };
+		572FB1211A17BF9E00B19A87 /* tabicon_budha.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tabicon_budha.png; sourceTree = "<group>"; };
+		572FB1231A17C11900B19A87 /* tabicon_info.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tabicon_info.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +99,7 @@
 		5715A6121A17B8CF00B86EA4 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				572FB1201A17BE6600B19A87 /* images */,
 				5715A6131A17B8CF00B86EA4 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -113,6 +120,16 @@
 				5715A62B1A17B8CF00B86EA4 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		572FB1201A17BE6600B19A87 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				572FB1231A17C11900B19A87 /* tabicon_info.png */,
+				572FB1211A17BF9E00B19A87 /* tabicon_budha.png */,
+				572FB11E1A17BE5A00B19A87 /* meditatebutton.png */,
+			);
+			name = images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -196,8 +213,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				5715A61C1A17B8CF00B86EA4 /* Main.storyboard in Resources */,
+				572FB1241A17C11900B19A87 /* tabicon_info.png in Resources */,
+				572FB11F1A17BE5A00B19A87 /* meditatebutton.png in Resources */,
 				5715A6211A17B8CF00B86EA4 /* LaunchScreen.xib in Resources */,
 				5715A61E1A17B8CF00B86EA4 /* Images.xcassets in Resources */,
+				572FB1221A17BF9E00B19A87 /* tabicon_budha.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -409,6 +429,7 @@
 				5715A6321A17B8CF00B86EA4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5715A6331A17B8CF00B86EA4 /* Build configuration list for PBXNativeTarget "meditateAPPTests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +438,7 @@
 				5715A6351A17B8CF00B86EA4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
