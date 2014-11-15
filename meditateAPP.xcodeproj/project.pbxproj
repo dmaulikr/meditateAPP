@@ -409,6 +409,7 @@
 				5715A6321A17B8CF00B86EA4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5715A6331A17B8CF00B86EA4 /* Build configuration list for PBXNativeTarget "meditateAPPTests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +418,7 @@
 				5715A6351A17B8CF00B86EA4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
