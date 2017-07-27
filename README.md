@@ -1,5 +1,5 @@
 ![header](http://i.imgur.com/hnhtd3q.jpg)
-meditateAPP
+meditateAPP (discontinued project)
 ===========
 
 iOS app for connecting meditators all over the world.
