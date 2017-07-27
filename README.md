@@ -2,7 +2,7 @@
 meditateAPP (discontinued project)
 ===========
 
-iOS app for connecting meditators all over the world.
+iOS app connecting meditators all over the world.
 
 Contribute
 ----
